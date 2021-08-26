@@ -1,0 +1,13 @@
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\bin\Debug\S7NetD2.exe.config
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\bin\Debug\S7NetD2.exe
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\bin\Debug\S7NetD2.pdb
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\bin\Debug\S7.Net.dll
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\bin\Debug\S7.Net.xml
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\obj\Debug\S7NetD2.csproj.AssemblyReference.cache
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\obj\Debug\S7NetD2.Form1.resources
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\obj\Debug\S7NetD2.Properties.Resources.resources
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\obj\Debug\S7NetD2.csproj.GenerateResource.cache
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\obj\Debug\S7NetD2.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\obj\Debug\S7NetD2.csproj.CopyComplete
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\obj\Debug\S7NetD2.exe
+C:\Users\FURKAN\source\repos\S7NetD2\S7NetD2\obj\Debug\S7NetD2.pdb
